@@ -1,0 +1,51 @@
+Supplier ID,Parent Supplier Name,Parent Supplier Corporate Name,Supplier Tier,Parent Supplier Status,Parent Supplier Type,Spend,Supplier Category,Supplier Sub-Category
+VMO_134,Plexure,Plexure Limited,Tier 1,Active,public,"10,000,000",Services,Application Development Services
+VMO_011,Amazon Web Services,"Amazon Web Services, Inc.",Tier 1,Active,public,"55,000,000",Services,Cloud Storage Provider
+VMO_003,Accenture,Accenture PLC,Tier 1,Active,public,"25,000,000",Services,Data Management Services
+VMO_220,Fiserv,"Fiserv, Inc.",Tier 1,Active,public,"2,000,000",Services,Data Management Services
+VMO_033,Cognizant,Cognizant Technology Solutions Corporation,Tier 1,Active,public,"15,000,000",Services,Application Development Services
+VMO_024,Capgemini,Capgemini America Inc.,Tier 1,Active,public,"250,000,000",Services,Managed Technology Services
+VMO_081,Huge,"Huge, LLC",Tier 2,Active,public,"10,000,000",Services,Application Development Services
+VMO_012,ApeGroup,"Apegroup AB, LLC",Tier 2,Active,private,"15,000,000",Services,Application Development Services
+VMO_191,Adyen,Adyen N.V.,Tier 2,Active,public,"4,000,000",Services,Data Management Services
+VMO_143,Saba,Saba Software Inc,Tier 2,Active,public,"500,000",Services,Data Management Services
+VMO_138,Radius,Radius Network Inc.,Tier 2,Active,private,"500,000",Hardware,Data Management Services
+VMO_131,Oracle,Oracle Corporation,Tier 2,Active,public,"3,000,000",Software,Data Management Services
+VMO_146,Sirius,Sirius Computer Solutions,Tier 2,Active,private,"10,000,000",Services,Application Development Services
+VMO_048,Datavail,Datavail Corporation,Tier 2,Active,private,"1,000,000",Services,Data Management Services
+VMO_209,Sift,"Sift Science, Inc.",Tier 2,Active,private,"15,000,000",Services,Application Development Services
+VMO_151,Sopra Steria,Sopra  Group Limited,Tier 2,Active,public,"10,000,000",Services,Application Development Services
+VMO_087,Informatica,Informatica Corporation,Tier 2,Active,private,"50,000",Services,Data Management Services
+VMO_230,Paradox,"Paradox, Inc.",Tier 3,Active,private,"50,000",Software,Data Management Services
+VMO_045,Cross Match,"Cross Match Technologies, Inc.",Tier 3,Active,public,"50,000",Hardware,Data Management Services
+VMO_202,Infodynamics,"Infodynamics, Inc.",Tier 3,Active,private,"50,000",Software,Data Management Services
+VMO_044,Credocom,Credocom A/S,Tier 3,Active,private,"50,000",Services,Data Management Services
+VMO_135,Quest,"Quest Software, Inc.",Tier 3,Active,private,"50,000",Software,Data Management Services
+VMO_110,LG,"LG Electronics, Inc",Tier 3,Active,public,"250,000",Hardware,Computer Hardware
+VMO_016,Smith,Smith,Tier 3,Active,private,"500,000",Services,Application Development Services
+VMO_194,BeyondTrust,Beyond Trust Corporation,Tier 3,Active,private,"500,000",Software,Data Management Services
+VMO_206,ShadowSoft,"Shadow-Soft, LLC.",Tier 3,Active,private,"500,000",Software,Data Management Services
+UNC_115,Cloud EQ,Cloud EQ,Tier 3,Active,private,"650,000",Services,Application Development Services
+VMO_199,Exusia,"Exusia, Inc.",Tier 3,Active,private,"250,000",Services,Data Management Services
+VMO_068,ExtraHop,ExtraHop Networks Inc.,Tier 3,Active,private,"250,000",Software,Data Management Services
+VMO_180,Wavicle,"Wavicle Data Solutions, LLC",Tier 3,Active,private,"250,000",Services,Data Management Services
+VMO_080,HP,Hewlett Packard Enterprise Company,Tier 3,Active,public,"250,000",Hardware,Computer Hardware
+VMO_232,Enfuse,"Enfuse Group, Ltd",Tier 3,Active,private,"500,000",Services,Application Development Services
+VMO_147,Slalom,"Slalom, LLC",Tier 3,Active,private,"250,000",Services,Artificial Intelligence
+VMO_014,Apple,"Apple, Inc.",Tier 3,Active,public,"25,000",Hardware,Computer Hardware
+VMO_149,Snaplogic,"Snaplogic, Inc",Tier 4,Active,private,"25,000",Software,Data Management Services
+VMO_173,Cred360,"Credit360, LLC",Tier 4,Active,private,"25,000",Services,Data Management Services
+VMO_210,Sirion,SirionLabs Pte. Ltd.,Tier 4,Active,private,"25,000",Software,Data Management Services
+VMO_072,Google,Google Inc,Tier 4,Active,public,"25,000",Services,Data Management Services
+VMO_123,Astound,"Astound AI, Inc.",Tier 4,Active,private,"25,000",Services,Artificial Intelligence
+VMO_158,Stibo,"Stibo Systems, Inc",Tier 4,Active,private,"25,000",Services,Data Management Services
+VMO_088,InfoAsset,Information Asset LLC,Tier 4,Active,private,"25,000",Services,Data Management Services
+VMO_211,Symmetrix,Symmetrix Solutions LLC,Tier 4,Active,private,"55,000",Services,Computer Hardware
+VMO_108,Lenovo,Lenovo (United States) Inc.,Tier 4,Active,public,"55,000",Hardware,Computer Hardware
+VMO_004,Achievers,Achievers Corp.,Tier 4,Active,private,"55,000",Software,Data Management Services
+VMO_051,Dell EMC,"Dell Technologies, Inc.",Tier 4,Active,public,"55,000",Services,Computer Hardware
+VMO_163,Talend,"Talend, Inc.",Tier 4,Active,public,"55,000",Services,Data Management Services
+VMO_094,Intel,Intel Corporation,Tier 5,Active,public,"55,000",Hardware,Computer Hardware
+VMO_060,Dynamic Yield,"Dynamic Yield, Inc.",Tier 5,Active,private,"75,000",Services,Artificial Intelligence
+VMO_104,Joyent,"Joyent, Inc.",Tier 5,Active,public,"25,000",Services,Data Management Services
+UNC_202,Appen,"Appen Butler Hill, Inc.",Tier 4,Active,public,"15,000",Services,Artificial Intelligence
